@@ -33,20 +33,20 @@ Partial Class Form1
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Modern No. 20", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(174, 40)
+        Me.Label1.Location = New System.Drawing.Point(158, 44)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(146, 30)
+        Me.Label1.Size = New System.Drawing.Size(161, 30)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Main Menu"
+        Me.Label1.Text = "Menu Utama"
         '
         'Button1
         '
         Me.Button1.Font = New System.Drawing.Font("MV Boli", 10.2!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(131, 97)
+        Me.Button1.Location = New System.Drawing.Point(127, 100)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(221, 81)
         Me.Button1.TabIndex = 1
-        Me.Button1.Text = "Go to Form 2"
+        Me.Button1.Text = "Pergi ke Form 2"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Label2
@@ -59,22 +59,22 @@ Partial Class Form1
         '
         'Button2
         '
-        Me.Button2.Font = New System.Drawing.Font("Javanese Text", 7.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(281, 275)
+        Me.Button2.Font = New System.Drawing.Font("MV Boli", 7.8!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.Location = New System.Drawing.Point(269, 298)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(154, 94)
+        Me.Button2.Size = New System.Drawing.Size(202, 71)
         Me.Button2.TabIndex = 3
-        Me.Button2.Text = "Exit"
+        Me.Button2.Text = "Keluar"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Button3
         '
-        Me.Button3.Font = New System.Drawing.Font("Comic Sans MS", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button3.Font = New System.Drawing.Font("MV Boli", 10.2!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button3.Location = New System.Drawing.Point(26, 298)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(153, 70)
         Me.Button3.TabIndex = 4
-        Me.Button3.Text = "Go to Form 3"
+        Me.Button3.Text = "Pergi ke Form 3"
         Me.Button3.UseVisualStyleBackColor = True
         '
         'Form1

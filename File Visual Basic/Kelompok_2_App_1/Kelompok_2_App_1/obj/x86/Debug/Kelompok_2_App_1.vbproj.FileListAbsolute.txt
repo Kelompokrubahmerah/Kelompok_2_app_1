@@ -8,3 +8,4 @@ C:\Users\User\Documents\File Visual Basic\Kelompok_2_App_1\Kelompok_2_App_1\obj\
 C:\Users\User\Documents\File Visual Basic\Kelompok_2_App_1\Kelompok_2_App_1\obj\x86\Debug\Kelompok_2_App_1.exe
 C:\Users\User\Documents\File Visual Basic\Kelompok_2_App_1\Kelompok_2_App_1\obj\x86\Debug\Kelompok_2_App_1.xml
 C:\Users\User\Documents\File Visual Basic\Kelompok_2_App_1\Kelompok_2_App_1\obj\x86\Debug\Kelompok_2_App_1.pdb
+C:\Users\User\Documents\File Visual Basic\Kelompok_2_App_1\Kelompok_2_App_1\obj\x86\Debug\Kelompok_2_App_1.Form3.resources
